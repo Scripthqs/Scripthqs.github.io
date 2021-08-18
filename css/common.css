@@ -1,0 +1,17 @@
+*{
+    box-sizing:border-box
+}
+body{
+    /* border: 10px solid red; */
+    background: #333;
+    margin: 20px 0;
+}
+article{
+    width: 21cm;
+    height: 29.7cm;
+    background: white;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 1em;
+}
+
