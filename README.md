@@ -1,5 +1,5 @@
 # Scripthqs.github.io
 
-个人网站
+个人简历
 
 预览：https://scripthqs.github.io/
